@@ -7,4 +7,6 @@
 
 ---
 ## Результати
+В ході роботи було змінено метод ShowCustomerDetails. Тепер дані взято з MyBank і пошук проводиться з файлу test.dat.
+<img src="https://github.com/ppc-ntu-khpi/tui-lab1-35-LymarN/blob/master/build/classes/com/mybank/Снимок.JPG" width="100%"/>
 
